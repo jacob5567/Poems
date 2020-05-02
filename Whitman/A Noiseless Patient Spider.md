@@ -1,3 +1,5 @@
+**"A Noiseless Patient Spider" by Walt Whitman**
+
 A noiseless patient spider,  
 I mark'd where on a little promontory it stood isolated,  
 Mark'd how to explore the vacant vast surrounding,  
