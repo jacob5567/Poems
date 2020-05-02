@@ -27,7 +27,6 @@ def main():
     # Add and commit
     cmd.run("git add README.md", check=True, shell=True)
     cmd.run("git commit -m \"Update README\"", check=True, shell=True)
-    cmd.run("git push", check=True, shell=True)
 
 if __name__ == "__main__":
     main()
