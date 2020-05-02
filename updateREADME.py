@@ -15,7 +15,14 @@ def main():
 
     # Write to file
     with open("README.md", 'w') as f:
-        pass
+        f.write("# Poems\n")
+        f.write("## A collection of some of my favorite poems\n")
+        index = 0
+        for i in dir_names:
+            f.write(f"### {i}\n")
+            for j in file_dict[index]:
+                f.write(f"\t{j}\n")
+            index += 1
 
 if __name__ == "__main__":
     main()
