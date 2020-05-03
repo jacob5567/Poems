@@ -21,7 +21,8 @@ def main():
         for i in dir_names:
             f.write(f"### {i}\n")
             for j in file_dict[index]:
-                f.write(f"\t{j}\n")
+                replace_spaces = j.replace(' ', "%20")
+                f.write(f" - [{j}](https://github.com/jacob5567/Poems/blob/master/{i}/{replace_spaces}.md)\n")
             index += 1
 
 if __name__ == "__main__":
