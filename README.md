@@ -1,6 +1,7 @@
 # Poems
 ## A collection of some of my favorite poems
 ### Tolkien
+ - [I sit beside the fire and think](https://github.com/jacob5567/Poems/blob/master/Tolkien/I%20sit%20beside%20the%20fire%20and%20think.md)
  - [Song In The Woods](https://github.com/jacob5567/Poems/blob/master/Tolkien/Song%20In%20The%20Woods.md)
 ### Whitman
  - [A Noiseless Patient Spider](https://github.com/jacob5567/Poems/blob/master/Whitman/A%20Noiseless%20Patient%20Spider.md)
