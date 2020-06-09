@@ -8,8 +8,10 @@
 ### Silvestri
  - [Sleep](https://github.com/jacob5567/Poems/blob/master/Silvestri/Sleep.md)
 ### Tolkien
+ - [A Walking Song](https://github.com/jacob5567/Poems/blob/master/Tolkien/A%20Walking%20Song.md)
  - [I sit beside the fire and think](https://github.com/jacob5567/Poems/blob/master/Tolkien/I%20sit%20beside%20the%20fire%20and%20think.md)
  - [Song In The Woods](https://github.com/jacob5567/Poems/blob/master/Tolkien/Song%20In%20The%20Woods.md)
+ - [The Old Walking Song](https://github.com/jacob5567/Poems/blob/master/Tolkien/The%20Old%20Walking%20Song.md)
 ### Whitman
  - [A Noiseless Patient Spider](https://github.com/jacob5567/Poems/blob/master/Whitman/A%20Noiseless%20Patient%20Spider.md)
  - [Locations and Times](https://github.com/jacob5567/Poems/blob/master/Whitman/Locations%20and%20Times.md)
