@@ -1,7 +1,7 @@
 # This program is run before each push to update the README
 
 import os
-import subprocess as cmd
+import urllib.parse
 
 def main():
     dir_names = [i for i in next(os.walk('.'))[1] if i[0] != '.']
@@ -21,8 +21,8 @@ def main():
         for i in dir_names:
             f.write(f"### {i}\n")
             for j in file_dict[index]:
-                replace_spaces = j.replace(' ', "%20").replace('?', "%3F")
-                f.write(f" - [{j}](https://github.com/jacob5567/Poems/blob/master/{i}/{replace_spaces}.md)\n")
+                escape = urllib.parse.quote(j)
+                f.write(f" - [{j}](https://github.com/jacob5567/Poems/blob/master/{i}/{escape}.md)\n")
             index += 1
 
 if __name__ == "__main__":
