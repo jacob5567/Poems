@@ -5,10 +5,10 @@ Seen before, and they will change him forever
 In the world of dreams,  
 Things happen that are not possible in the world he came from  
 Questions are answered,  
-But the answers are in a language he's never heard before.  
+But the answers are in a language he's never heard before  
 He understands that language, though, in the dream  
 Everything is resolved in the dream, or so it seems  
-But it all must remain in the dream.  
+But it all must remain in the dream  
 When he awakens, he will forget that language  
 It will be incomprehensible again  
 He will only remember that when he dreamed, he understood it  
