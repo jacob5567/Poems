@@ -1,5 +1,7 @@
 # Poems
 ## A collection of some of my favorite poems
+### Miscellaneous
+ - [The Dreamer](https://github.com/jacob5567/Poems/blob/master/Miscellaneous/The%20Dreamer.md)
 ### Dickinson
  - [I'm Nobody! Who are you?](https://github.com/jacob5567/Poems/blob/master/Dickinson/I%27m%20Nobody%21%20Who%20are%20you%3F.md)
  - ["Hope" is the thing with feathers](https://github.com/jacob5567/Poems/blob/master/Dickinson/%22Hope%22%20is%20the%20thing%20with%20feathers.md)
