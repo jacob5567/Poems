@@ -1,4 +1,4 @@
-# This program is run before each push to update the README
+# This is run before each push to update the README
 
 import os
 import urllib.parse
