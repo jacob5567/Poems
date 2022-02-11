@@ -8,5 +8,5 @@ But tonight he is alive and in the north
 field with his mother. It is a perfect  
 summer evening: the moon rising over  
 the orchard, the wind in the grass. And  
-as he stared into the sky, there are  
+as he stares into the sky, there are  
 twice as many stars as usual.  
